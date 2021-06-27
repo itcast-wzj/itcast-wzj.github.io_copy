@@ -6,7 +6,7 @@
   <link href="https://coderwang.com/atom.xml" rel="self"/>
   
   <link href="https://coderwang.com/"/>
-  <updated>2021-06-26T18:26:04.204Z</updated>
+  <updated>2021-06-27T04:52:53.234Z</updated>
   <id>https://coderwang.com/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="https://coderwang.com/posts/d95d7e09/"/>
     <id>https://coderwang.com/posts/d95d7e09/</id>
     <published>2021-06-26T17:32:16.000Z</published>
-    <updated>2021-06-26T18:26:04.204Z</updated>
+    <updated>2021-06-27T04:52:53.234Z</updated>
     
-    <content type="html"><![CDATA[<h4 id="第一"><a href="#第一" class="headerlink" title="第一"></a>第一</h4><figure class="highlight tex"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hello world</span><br></pre></td></tr></tbody></table></figure><h4 id="第一-1"><a href="#第一-1" class="headerlink" title="第一"></a>第一</h4><figure class="highlight java"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="function"><span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">void</span> <span class="title">main</span><span class="params">(String[] args)</span></span>{</span><br><span class="line">    System.out.prinln(<span class="string">"Hello world"</span>);</span><br><span class="line">}</span><br></pre></td></tr></tbody></table></figure>]]></content>
+    <content type="html"><![CDATA[<h4 id="第一"><a href="#第一" class="headerlink" title="第一"></a>第一</h4><figure class="highlight tex"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hello world</span><br></pre></td></tr></tbody></table></figure><h4 id="第一-1"><a href="#第一-1" class="headerlink" title="第一"></a>第一</h4><figure class="highlight java"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="function"><span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">void</span> <span class="title">main</span><span class="params">(String[] args)</span></span>{</span><br><span class="line">    System.out.prinln(<span class="string">"Hello world"</span>);</span><br><span class="line">}</span><br></pre></td></tr></tbody></table></figure><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="C:\Users\wzj\AppData\Roaming\Typora\typora-user-images\1624769565199.png" alt="1624769565199" title="">                </div>                <div class="image-caption">1624769565199</div>            </figure>]]></content>
     
     
       
